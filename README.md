@@ -53,7 +53,11 @@ Google Colab
 git clone https://github.com/your-username/Iris-Flower-Classification.git
 
 2. Install dependencies:
-pip install -r requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
 
 3. Run the notebook:
 jupyter notebook Iris_Flower_Classification.ipynb
